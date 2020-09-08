@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name": "Hieu Huynh",
+    "occupation": "Freelancer at my home",
+    "description": "Still learning to become a developer at an University in Viet Nam",
+    "image": "HieuIMG.jpg",
+    "bio": "My name is Hieu, I'm still a student on the path to become an ReactJS Developer. Currently I'm learning at University of Da Nang ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "huynhtrunghieu2000@gmail.com",
+    "phone": "+84 12 345 6789",
+    "address": {
+      "street": "16 Nguyen Van Linh",
+      "city": "Da Nang",
+      "state": "South Central Coast",
+      "zip": "550000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/huynh.hieu.737",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/huynhtrunghieu2000",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some skills I've learned",
+    "education": [
+      {
+        "school": "University of Da Nang",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "Undergraduating",
+        "description": "Graduate in 2022"
+      }
+    ],
+    "work": [
+      {
+        "company": "TechDra",
+        "title": "Team Member",
+        "years": "July 2019 - Present",
+        "description": "Freelancer group of Web Developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "20%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "Java Servlet",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tree Manager for City",
+        "category": "WebApp with Bootstrap, Java Servlet, mySQL",
+        "image": "treemanager.png",
+        "url": "https://quanlycayxanh.herokuapp.com/home"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He maybe don't have much experience, but when you need he will always there, learn things fast, and help you to the ceil.",
+        "user": "Truong Duc Huy - Leader TechDra"
+      }
+    ]
+  }
+}
